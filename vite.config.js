@@ -7,7 +7,7 @@ import path from "path";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue(), vueDevTools()],
-  base:"/weather-app/",
+  base: '/weather-app/',
   resolve: {
     alias: {
       "@": fileURLToPath(new URL("./src", import.meta.url)),
