@@ -1,118 +1,10 @@
-<!-- <template>
-  <section class="about-wrapper">
-    <div class="about-content">
-      <h1>About Me</h1>
-      <p>
-        Hey! I'm <strong>Ahmed Samir</strong>, a front-end developer who's
-        always curious about building real-world web applications. <br /><br />
-        I built this weather app as part of my journey to improve my skills and
-        create something actually useful.
-        <br /><br />
-        I wanted to work on a project that uses real-time data and presents it
-        in a clean, modern, and responsive design.
-      </p>
-
-      <div class="contact-box">
-        <div class="email">
-          <i class="fa-regular fa-envelope"></i>
-          <p>Email: ahmedsamir0523@gmail.com</p>
-        </div>
-        <div class="phone">
-          <i class="fa-solid fa-phone"></i>
-          <p>Phone: +20 123 456 7890</p>
-        </div>
-        <div class="linkedin">
-          <i class="fa-brands fa-linkedin"></i>
-          <p>
-            LinkedIn:
-            <a
-              href="https://www.linkedin.com/in/ahmed-samir-a783732ab"
-              target="_blank"
-              >linkedin.com/in/ahmed-samir-a783732ab</a
-            >
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-</template>
-
-<style scoped>
-.about-wrapper {
-  margin-top: 2rem;
-  background-size: cover;
-  background-position: center;
-  /* min-height: 100vh; */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem;
-  backdrop-filter: blur(4px);
-}
-
-.about-content {
-  background-color: rgba(0, 0, 0, 0.6);
-  padding: 2.5rem;
-  border-radius: 16px;
-  max-width: 700px;
-  color: #fff;
-  text-align: center;
-  box-shadow: 0 0 25px rgba(255, 255, 255, 0.1);
-  animation: fadeIn 1s ease;
-}
-
-.about-content h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1.5rem;
-  color: #ff9800;
-}
-
-.about-content p {
-  font-size: 1.1rem;
-  line-height: 1.7;
-}
-
-.contact-box {
-  margin-top: 2rem;
-  text-align: left;
-  font-size: 1rem;
-}
-.contact-box .email,
-.phone,
-.linkedin {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-.fa-envelope,
-.fa-phone,
-.fa-linkedin {
-  font-size: 18px;
-}
-.contact-box a {
-  color: #ffa726;
-  text-decoration: underline;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(40px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style> -->
-
 <template>
   <section class="about-section">
     <div class="about-content">
       <h1>About This Project</h1>
       <p>
-        Hi, I'm Ahmed Samir — a passionate front-end developer who's constantly
-        exploring ways to turn ideas into interactive experiences.
+        Hi, I'm Abdlarahman Wael — a passionate front-end developer who's
+        constantly exploring ways to turn ideas into interactive experiences.
       </p>
       <p>
         I built this weather application to sharpen my skills in building
@@ -134,20 +26,20 @@
       <div class="contact-box">
         <div class="email">
           <i class="fa-regular fa-envelope"></i>
-          <p>Email: ahmedsamir0523@gmail.com</p>
+          <p>Email: abdalrahmanwael.official@gmail.com</p>
         </div>
         <div class="phone">
           <i class="fa-solid fa-phone"></i>
-          <p>Phone: +20 111 521 0212</p>
+          <p>Phone: +20 100 318 3501</p>
         </div>
         <div class="linkedin">
           <i class="fa-brands fa-linkedin"></i>
           <p>
             LinkedIn:
             <a
-              href="https://www.linkedin.com/in/ahmed-samir-a783732ab"
+              href="www.linkedin.com/in/abdalrahman-wael-94654a430"
               target="_blank"
-              >linkedin.com/in/ahmed-samir-a783732ab</a
+              >linkedin.com/in/abdalrahman-wael-94654a430</a
             >
           </p>
         </div>
